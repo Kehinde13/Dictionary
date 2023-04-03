@@ -4,8 +4,8 @@
     "theme_color": "#21ddf3",
     "background_color": "#21c4f3",
     "display": "standalone",
-    "scope": "http://Kehinde13.github.io/Dictionary",
-    "start_url": "http://Kehinde13.github.io/Dictionary",
+    "scope": "/Dictionary",
+    "start_url": "/Dictionary",
   
   "icons": [
     {
