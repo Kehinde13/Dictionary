@@ -31,7 +31,7 @@ function Main() {
     getWord()
   }
 
-  console.log(result);
+  
   return (
     <div>
       <FormControl
