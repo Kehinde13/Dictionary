@@ -4,7 +4,7 @@
     "theme_color": "#21ddf3",
     "background_color": "#21c4f3",
     "display": "standalone",
-    "scope": "/Dictionary",
+    "scope": "/",
     "start_url": "/Dictionary",
   
   "icons": [
