@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Dictionary/static/css/main.e6c13ad2.css",
+    "main.js": "/Dictionary/static/js/main.1b922935.js",
+    "service-worker.js": "/Dictionary/service-worker.js",
+    "index.html": "/Dictionary/index.html",
+    "main.e6c13ad2.css.map": "/Dictionary/static/css/main.e6c13ad2.css.map",
+    "main.1b922935.js.map": "/Dictionary/static/js/main.1b922935.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1b922935.js"
+  ]
+}
