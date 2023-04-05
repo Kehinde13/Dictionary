@@ -50,9 +50,7 @@ function Main() {
           required
           endAdornment={
             <SearchIcon
-              sx={{
-                cursor: "pointer"
-              }}
+              cursor={"pointer"}
               onClick={handleSearch}
             />
           }

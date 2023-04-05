@@ -21,6 +21,7 @@ function App() {
       <Box
        bgcolor={"background.default"} 
        color={"text.primary"} 
+       minHeight={'650px'}
       >
        <NavBar
         mode={mode}
