@@ -5,7 +5,7 @@
     "background_color": "#21c4f3",
     "display": "standalone",
     "start_url": "/",
-    "scope": "https://kehinde13.github.io/Dictionary/",
+    "scope": "/",
   "icons": [
     {
       "src": "maskable.png",
